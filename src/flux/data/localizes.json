@@ -1,0 +1,52 @@
+{
+  "en": {
+    "all": "all",
+    "edit": "edit",
+    "welcome": "welcome",
+    "quick_access": "quick access",
+    "dark_theme": "dark theme",
+    "update_controls": "update controls",
+    "keypad": "keypad",
+    "button": "button",
+    "knob": "knob",
+    "switch": "switch",
+    "keypads": "keypads",
+    "buttons": "buttons",
+    "knobs": "knobs",
+    "switchs": "switchs",
+    "set_endpoint": "set sendpoint",
+    "device_id": "device id",
+    "set_endpoint_description": "set you iottalk endpoint(url).",
+    "url": "url",
+    "ok": "ok",
+    "cancel": "cancel",
+    "remote_control": "remote control",
+    "languages": "languages"
+
+  },
+  "zh": {
+    "all": "全部",
+    "edit": "編輯",
+    "welcome": "歡迎",
+    "quick_access": "快速存取",
+    "dark_theme": "深色主題",
+    "update_controls": "更新控制元件",
+    "keypad": "數字",
+    "button": "按鈕",
+    "knob": "轉輪",
+    "switch": "開關",
+    "keypads": "數字",
+    "buttons": "按鈕",
+    "knobs": "轉輪",
+    "switchs": "開關",
+    "set_endpoint": "設定端點",
+    "device_id": "裝置識別碼",
+    "set_endpoint_description": "set you iottalk endpoint(url).",
+    "url": "連結",
+    "ok": "確定",
+    "cancel": "取消",
+    "remote_control": "遠端控制",
+    "languages": "語言"
+
+  }
+}
